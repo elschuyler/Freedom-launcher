@@ -1,0 +1,2 @@
+rootProject.name = "VibeForge"
+include ':app'
